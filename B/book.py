@@ -38,7 +38,7 @@ class book:
         self.idioma = idioma
 
     def info(self):
-        print("La información del libro es: " + self.nombre)
+        print("EL nombre del libro es: " + self.nombre)
         print("Es del año: " + self.año)
         print("Tiene " + self.páginas + " páginas")
         print("La tapa es " + self.tapa)
