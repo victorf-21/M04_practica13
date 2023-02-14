@@ -38,9 +38,9 @@ class user:
         self.peso = peso
 
     def salutacio(self):
-        print("El nombre del usuario es : " + self.nombre)
-        print("Su edad es : " + self.edad)
-        print("Su sexo es :" + self.sexo)
+        print("El nombre del usuario es: " + self.nombre)
+        print("Su edad es: " + self.edad)
+        print("Su sexo es: " + self.sexo)
         print("Su nacionalidad es: " + self.nacionalidad)
         print("Su altura es: " + self.altura)
         print("Su peso es: " + self.peso)

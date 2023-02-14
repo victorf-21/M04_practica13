@@ -38,9 +38,9 @@ class university:
         self.estudios = estudios
 
     def info(self):
-        print("El nombre del usuario es : " + self.nombre)
-        print("Su edad es : " + self.dirección)
-        print("Su sexo es :" + self.teléfono)
-        print("Su nacionalidad es : " + self.provincia)
-        print("Su altura es : " + self.aulas)
-        print("El estudio que da es : " + self.estudios)
+        print("El nombre de la universidad es: " + self.nombre)
+        print("La dirección es: " + self.dirección)
+        print("El teléfono de contacto es: " + self.teléfono)
+        print("Está en la provincia: " + self.provincia)
+        print("Tiene un total de: " + self.aulas + " aulas")
+        print("El estudio que da es: " + self.estudios)
